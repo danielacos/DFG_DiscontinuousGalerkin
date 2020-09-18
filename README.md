@@ -1,1 +1,1 @@
-# DFG_DiscontinuousGalerkin
+# DFP_DiscontinuousGalerkin
